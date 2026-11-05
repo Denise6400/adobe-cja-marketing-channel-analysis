@@ -1,9 +1,9 @@
 In Adobe’s October 2026 sample data, Email had the highest attributed online order volume, while In-App Messaging recorded approximately 2.2 times Email’s orders per session among the channels displayed.
 
-See Visualization.png for details.
+![Adobe CJA marketing channel performance](Visualization.png)
 
-## Claims Risk Profile Analysis - see Claims.png for visualization
-
+## Claims Risk Profile Analysis
+![Adobe CJA claims risk profile visualization](Claims.png)
 Explored insurance-related CRM profile fields in Adobe Customer Journey Analytics (CJA), using the **Omni-Channel – Multi-Industry** sample data view.
 
 ### Objective
@@ -51,7 +51,7 @@ Adobe CJA Analysis Workspace, data visualization, profile segmentation, dimensio
 
 Built an Adobe Customer Journey Analytics (CJA) dashboard using training data to investigate application progression, identify drop-off, and compare marketing channels.
 
-![Application Progression by Marketing Channel](images/application-progression-by-channel.png)
+![Adobe CJA application progression by marketing channel](Application%20Progression%20by%20Marketing%20Channel.png)
 
 ### Business Questions
 
